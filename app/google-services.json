@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739606338331",
+    "project_id": "proynov-f12f0",
+    "storage_bucket": "proynov-f12f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739606338331:android:447168b973ee2095cbd1be",
+        "android_client_info": {
+          "package_name": "edu.isil.proy01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_V_EVYmPA6n9HUQZPbidt2rfmnF8cAwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
